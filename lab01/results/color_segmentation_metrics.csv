@@ -1,0 +1,3 @@
+space,day_accuracy,day_iou,lamp_accuracy,lamp_iou
+RGB,0.8954,0.4182,0.8488,0.1428
+HSV,0.9818,0.9001,0.9668,0.8255
