@@ -1,5 +1,5 @@
-.venv/
-__pycache__/
+data/
 *.jpg
-*.png
-*.mp4
+*.jpeg
+
+!figures/*.png
