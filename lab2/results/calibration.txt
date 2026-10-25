@@ -1,0 +1,37 @@
+Шаблон: (9, 6)
+Розмір клітинки: 25.0 мм
+Початкова RMS: 1.436963 px
+Фінальна RMS: 1.436963 px
+Кадрів: 25
+Матриця:
+[[1.76025056e+03 0.00000000e+00 1.27405000e+03]
+ [0.00000000e+00 1.76642963e+03 9.59799756e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+Дисторсія:
+[[-8.64913301e-02  8.92103526e-01 -4.25102059e-03  1.14950250e-03
+  -1.70730945e+00]]
+calib_corner_01.jpg: 1.0889 px
+calib_corner_02.jpg: 1.3501 px
+calib_corner_03.jpg: 1.9077 px
+calib_corner_04.jpg: 2.3895 px
+calib_corner_05.jpg: 1.9739 px
+calib_corner_06.jpg: 1.8656 px
+calib_corner_07.jpg: 1.1690 px
+calib_corner_08.jpg: 2.2334 px
+calib_corner_09.jpg: 2.0352 px
+calib_corner_10.jpg: 1.9360 px
+calib_front_01.jpg: 1.1358 px
+calib_front_02.jpg: 0.9906 px
+calib_front_03.jpg: 0.8081 px
+calib_front_04.jpg: 0.7637 px
+calib_front_05.jpg: 0.6755 px
+calib_tilt_01.jpg: 0.6266 px
+calib_tilt_02.jpg: 0.6838 px
+calib_tilt_03.jpg: 1.2504 px
+calib_tilt_04.jpg: 1.0293 px
+calib_tilt_05.jpg: 1.1693 px
+calib_tilt_06.jpg: 1.0169 px
+calib_tilt_07.jpg: 1.2078 px
+calib_tilt_08.jpg: 1.2947 px
+calib_tilt_09.jpg: 1.5712 px
+calib_tilt_10.jpg: 1.4800 px

@@ -1,0 +1,44 @@
+Internal corners: (9, 6)
+Square size: 25.0 mm
+Image size: (2560, 1920)
+Images found: 26
+Images used: 26
+Initial RMS: 1.415182 px
+Final RMS: 1.415182 px
+
+Camera matrix:
+[[1.75980724e+03 0.00000000e+00 1.27228884e+03]
+ [0.00000000e+00 1.76576900e+03 9.60326696e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+
+Distortion coefficients:
+[[-8.16215445e-02  8.46363361e-01 -4.00232811e-03  7.09830862e-04
+  -1.58652893e+00]]
+
+Per-image RMS:
+calib_corner_01.jpg: 1.090984 px
+calib_corner_02.jpg: 1.349373 px
+calib_corner_03.jpg: 1.915147 px
+calib_corner_04.jpg: 2.391537 px
+calib_corner_05.jpg: 1.971999 px
+calib_corner_06.jpg: 1.868409 px
+calib_corner_07.jpg: 1.175619 px
+calib_corner_08.jpg: 2.225518 px
+calib_corner_09.jpg: 2.036813 px
+calib_corner_10.jpg: 1.942983 px
+calib_front_01.jpg: 1.133856 px
+calib_front_02.jpg: 0.979297 px
+calib_front_03.jpg: 0.801671 px
+calib_front_04.jpg: 0.762623 px
+calib_front_05.jpg: 0.675843 px
+calib_tilt_01.jpg: 0.623751 px
+calib_tilt_02.jpg: 0.680322 px
+calib_tilt_03.jpg: 1.254516 px
+calib_tilt_04.jpg: 1.016399 px
+calib_tilt_05.jpg: 1.172670 px
+calib_tilt_06.jpg: 1.021576 px
+calib_tilt_07.jpg: 1.193934 px
+calib_tilt_08.jpg: 1.298078 px
+calib_tilt_09.jpg: 1.575481 px
+calib_tilt_10.jpg: 1.487576 px
+test_line.jpg: 0.652419 px
