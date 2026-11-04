@@ -1,0 +1,6 @@
+example-data.tgz
+*.aux
+*.log
+*.out
+*.synctex.gz
+CMU0-all.jpg
