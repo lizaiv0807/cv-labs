@@ -1,0 +1,11 @@
+\babel@toc {ukrainian}{}\relax 
+\contentsline {section}{Вступ і мета роботи}{2}{}%
+\contentsline {section}{\numberline {1}Теоретичні відомості}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Диспаратність та відновлення глибини}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Алгоритми Block Matching (BM) та Semi-Global Block Matching (SGBM)}{3}{}%
+\contentsline {section}{\numberline {2}Практичне виконання та результати експериментів}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Частина B. Дослідження параметрів (Сітка експериментів)}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Частина D. Оцінка за еталоном та перехід до глибини}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Крок 12. Побудова хмари точок (3D-реконструкція)}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Частина E. Аналіз помилок (Крок 14)}{6}{}%
+\contentsline {section}{Висновки}{7}{}%
